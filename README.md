@@ -21,8 +21,10 @@ HTML
 -Added alt tags to the images to adhere to ADA compliance
 
 CSS
--consolidated redundant key-value sets
--adjusted keys to hook into correct parts of HTML
+
+-Consolidated redundant key-value sets
+
+-Adjusted keys to hook into correct parts of HTML
 
 Link to working website:
 https://doremus256.github.io/BD-U1H1-SEO-Refactor/
