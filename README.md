@@ -9,10 +9,15 @@ This project started as a messy website that needed to be refactored. Perfect fo
 Through the refactoring process, I have made the following changes:
 
 HTML
+
 -Title was useless - changed a title that is more descriptive, although sarcastic
+
 -Changed all of the <div> tags to be more speific
+
 -Assigned "id" to the "search engine optimization" section under <article> so that this <nav> element knows what to reference. (The other 2 already had functioning "id"s)
+
 -Added tabindex attribute to navigation elements to adhere to ADA compliance
+
 -Added alt tags to the images to adhere to ADA compliance
 
 CSS
